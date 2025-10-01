@@ -3,11 +3,6 @@ package com.winter.mytharc.newdata.event;
 import com.winter.mytharc.newdata.effects.EffectRegister;
 import net.minecraft.world.effect.MobEffectInstance;
 import net.minecraft.world.entity.LivingEntity;
-import net.minecraft.world.level.block.Block;
-import net.minecraftforge.common.ForgeHooks;
-import net.minecraftforge.event.entity.living.LivingDamageEvent;
-import net.minecraftforge.event.entity.living.LivingHealEvent;
-import net.minecraftforge.event.level.BlockEvent;
 import net.minecraftforge.eventbus.api.SubscribeEvent;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.event.entity.player.ArrowLooseEvent;
@@ -24,6 +19,7 @@ import com.winter.mytharc.MythArc;
     public static void onArrowFire(ArrowLooseEvent event) {
         LivingEntity entity = event.getEntity();
         int amplifier;
+
 
         // make this not terrible
         // this functions though I do not care
