@@ -38,6 +38,13 @@ public class ComponentAlkahest extends SpellEffect implements IDamageComponent {
             float damage = 1 * modificationData.getValue(Attribute.DAMAGE);
 
 
+            // PLEASE TURN THIS INTO A CONFIG PLEASE DO NOT HARDF CODE THIS PLEASE DO NOT DO THAT PLEASE CHANGE THIS PLEASE
+            // PLEASE PLEASE AAAAAAAAAAAAA  PLEASE
+            // CAN YOU DO THAT FOR ME
+            // ALSO MAKE IT A FORMULA THAT IS GOOD
+            // PLEASR
+
+
             if(spellTarget.hasEffect(MobEffects.BAD_OMEN))
             {
                 damage *= 1.2;
