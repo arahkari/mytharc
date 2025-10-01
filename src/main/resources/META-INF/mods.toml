@@ -1,6 +1,6 @@
 modLoader="javafml"
 loaderVersion="[47,)"
-license = "MIT"
+license = "GNU GPL v3"
 
 [[mods]] #mandatory
 # The modid of the mod
@@ -56,6 +56,13 @@ side="BOTH"
 modId="geckolib"
 mandatory=true
 versionRange="[4.2.2,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.mythicarcana]]
+modId="attributeslib"
+mandatory=true
+versionRange="[1.3.7,)"
 ordering="NONE"
 side="BOTH"
 

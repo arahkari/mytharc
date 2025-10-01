@@ -1,0 +1,16 @@
+{
+  "type": "mna:component",
+  "tier": 4,
+  "output": "mytharc:components/apathy",
+  "items": [
+    "minecraft:stone_slab",
+    "minecraft:cobblestone",
+    "minecraft:dirt",
+    "minecraft:rotten_flesh"
+  ],
+  "patterns": [
+    "mna:manaweave_patterns/square",
+    "mna:manaweave_patterns/square",
+    "mna:manaweave_patterns/square"
+  ]
+}

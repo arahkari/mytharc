@@ -32,7 +32,6 @@ import com.winter.mytharc.MythArc;
             entity.removeEffect(EffectRegister.DEADEYE.get());
             MobEffectInstance effect = new MobEffectInstance(EffectRegister.DEADEYE.get(), 1, amplifier);
             entity.addEffect(effect);
-            System.out.println("reapplied at " + amplifier);
         }
 
     }
