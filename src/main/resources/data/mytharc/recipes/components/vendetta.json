@@ -1,0 +1,17 @@
+{
+  "type": "mna:component",
+  "tier": 4,
+  "output": "mytharc:components/vendetta",
+  "items": [
+    "minecraft:netherite_axe",
+    "mna:red_glyph",
+    "minecraft:fire_charge",
+    "minecraft:ender_eye",
+    "minecraft:wither_skeleton_skull"
+  ],
+  "patterns": [
+    "mna:manaweave_patterns/inverted_triangle",
+    "mna:manaweave_patterns/inverted_triangle",
+    "mna:manaweave_patterns/inverted_triangle"
+  ]
+}

@@ -1,0 +1,400 @@
+{
+  "Shadow Damage": {
+    "index": "2",
+    "category": "sorcery",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Shadow Damage"
+      },
+      {
+        "type": "text",
+        "value": "",
+        "json": [
+          {
+            "text": "Using mysteriously dark, and somewhat mysterious energies, I can now deal damage with the "
+          },
+          {
+            "text": "force of dark and shadow of life",
+            "color": "dark_purple"
+          },
+          {
+            "text": "."
+          },
+          {
+            "text": "\nThe raw power of darkness and mystery seems reasonably effective at causing harm, of course... plus I've noticed that"
+          },
+          {
+            "text": " the darkness hungers for those who are close to death, heavily amplifying the damage",
+            "color": "dark_purple"
+          },
+          {
+            "text": "."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "spell_part",
+        "location": "mytharc:components/shadow"
+      }
+    ]
+  },
+  "Devious Alkahest": {
+    "index": "2",
+    "category": "sorcery",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Devious Alkahest"
+      },
+      {
+        "type": "text",
+        "value": "",
+        "json": [
+          {
+            "text": "Water flows so smoothly in nature. With just some magic, water can be turned into a controlled force, too.\nBy fusing concepts in a stranger manner, I have managed to form water to flow, rigidly? This is a disaster. However, by launching this beautiful disaster at whatever I want, I can "
+          },
+          {
+            "text": "cause them to take damage",
+            "color": "dark_purple"
+          },
+          {
+            "text": "."
+          },
+          {
+            "text": " Just a splash of mild pain at first, however this water "
+          },
+          {
+            "text": "reacts and flows to to any strange magic or fluid on a target, causing the damage to increase dramatically",
+            "color": "dark_purple"
+          },
+          {
+            "text": "."
+          },
+          {
+            "text": " Strange effects seem to be ones I have"
+          },
+          {
+            "text": " not been able to replicate alchemically, like Conduit Power or seemingly do not exist naturally.",
+            "color": "dark_purple"
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "spell_part",
+        "location": "mytharc:components/alkahest"
+      }
+    ]
+  },
+  "Vendetta": {
+    "index": "2",
+    "category": "sorcery",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Vendetta"
+      },
+      {
+        "type": "text",
+        "value": "",
+        "json": [
+          {
+            "text": "I can concentrate my raw fury and feelings of agony into magic. This is how I deal with problems. I just so happen to be able to "
+          },
+          {
+            "text": "direct this at my enemies, causing them to feel the pain, increasing based on how hurt I am, plus extra flat damage if I am painfully damaged",
+            "color": "dark_purple"
+          },
+          {
+            "text": "."
+          },
+          {
+            "text": " I need to actually be in a state of pain..."
+          },
+          {
+            "text": " any health above 20 will cause the damage to decrease rather than increase",
+            "color": "dark_purple"
+          },
+          {
+            "text": "."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "spell_part",
+        "location": "mytharc:components/vendetta"
+      }
+    ]
+  },
+  "Devourment": {
+    "index": "2",
+    "category": "sorcery",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Devourment"
+      },
+      {
+        "type": "text",
+        "value": "",
+        "json": [
+          {
+            "text": "I am feeling quite deliciously evil today, aren't I? Yes, of course. I shall "
+          },
+          {
+            "text": "devour baby animals to sate my hunger",
+            "color": "dark_purple"
+          },
+          {
+            "text": "."
+          },
+          {
+            "text": " Yes, quite a fancy meal, delicious. Perfect idea."
+          },
+          {
+            "text": " This or I could do literally any other action that would benefit me more, such as read a book.",
+            "color": "dark_purple"
+          },
+          {
+            "text": "."
+          },
+          {
+            "text": " Demons win again.",
+            "color": "dark_red"
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "spell_part",
+        "location": "mytharc:components/devourment"
+      }
+    ]
+  },
+   "Apathy": {
+    "index": "2",
+    "category": "sorcery",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Apathy"
+      },
+      {
+        "type": "text",
+        "value": "",
+        "json": [
+          {
+            "text": "I am able to manipulate the emotions of my enemies to "
+          },
+          {
+            "text": "make them not care about targeting anything",
+            "color": "dark_purple"
+          },
+          {
+            "text": "."
+          },
+          {
+            "text": " They will instead choose to sit and do nothing, ignoring "
+          },
+          {
+            "text": "any target they would normally want to chase",
+            "color": "dark_purple"
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "spell_part",
+        "location": "mytharc:components/apathy"
+      }
+    ]
+  },
+  "Sanctuary": {
+    "index": "2",
+    "category": "sorcery",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Sanctuary"
+      },
+      {
+        "type": "text",
+        "value": "",
+        "json": [
+          {
+            "text": "By bending light around me, I become harder to hit. "
+          },
+          {
+            "text": "Most types of damage will have a chance of not affecting me at all",
+            "color": "dark_purple"
+          },
+          {
+            "text": "."
+          },
+          {
+            "text": " If everything had the ability to seemingly dodge even when I throw a fireball 200 km/h at their face, that certainly would be miserable.\nI sure am glad I am one of the few who can perform this... probably. Hopefully."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "spell_part",
+        "location": "mytharc:components/sanctuary"
+      }
+    ]
+  },
+  "Rejuvenation": {
+    "index": "2",
+    "category": "sorcery",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Rejuvenation"
+      },
+      {
+        "type": "text",
+        "value": "",
+        "json": [
+          {
+            "text": "Binding my wounds is not effective when I am constantly flying through the air and/or teleporting everywhere. I have created a "
+          },
+          {
+            "text": "similar regenerative effect; though this is a very slow and weak one, I am freely able to move without disrupting the effect",
+            "color": "dark_purple"
+          },
+          {
+            "text": "."
+          },
+          {
+            "text": " Now, there are some restorative benefits beyond just that... "
+          },
+          {
+            "text": "I also receive more healing while I am under the effect.",
+            "color": "dark_purple"
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "spell_part",
+        "location": "mytharc:components/rejuvenation"
+      }
+    ]
+  },
+  "Reaching": {
+    "index": "2",
+    "category": "sorcery",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Reaching"
+      },
+      {
+        "type": "text",
+        "value": "",
+        "json": [
+          {
+            "text": "I want to reach further. Swing a blade from a great distance, place blocks at a huge range, perhaps even reach the top shelf. "
+          },
+          {
+            "text": "Out of all of the methods, such as perhaps augmenting my reach with kinetic spells... I have decided to make my arms really, really long. I'm pretty smart. "
+          },
+          {
+            "text": "I can reach further with these, of course",
+            "color": "dark_purple"
+          },
+          {
+            "text": "."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "spell_part",
+        "location": "mytharc:components/reaching"
+      }
+    ]
+  },
+  "Deadeye": {
+    "index": "2",
+    "category": "sorcery",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Deadeye"
+      },
+      {
+        "type": "text",
+        "value": "",
+        "json": [
+          {
+            "text": "I can compress and move raw force within my muscles, perfectly controlling them like a machine, allowing me to "
+          },
+          {
+            "text": "have much more force and accuracy in my ranged attacks for the short period I can handle this",
+            "color": "dark_purple"
+          },
+          {
+            "text": "."
+          },
+          {
+            "text": " My arrows, tridents and the like shall fly at incredible speeds using the raw power of musclemancy, arrows especially become painfully strong, like me. "
+          },
+          {
+            "text": "The effect lasts for 1 shot from arrow based weapons and lasts for the entire duration for thrown weapons.",
+            "color": "dark_purple"
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "spell_part",
+        "location": "mytharc:components/deadeye"
+      }
+    ]
+  },
+  "Overcharge": {
+    "index": "2",
+    "category": "sorcery",
+    "sections": [
+      {
+        "type": "title",
+        "value": "Overcharge"
+      },
+      {
+        "type": "text",
+        "value": "",
+        "json": [
+          {
+            "text": "I can use REAL LIGHTNING to cause me to attack faster. This is how energy works. "
+          },
+          {
+            "text": " The burst of attack speed affects melee and ranged attacks, and the burst does not last long",
+            "color": "dark_purple"
+          },
+          {
+            "text": "."
+          }
+        ]
+      }
+    ],
+    "related_recipes": [
+      {
+        "type": "spell_part",
+        "location": "mytharc:components/overcharge"
+      }
+    ]
+  }
+}

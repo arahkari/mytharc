@@ -1,0 +1,15 @@
+{
+  "type": "mna:component",
+  "tier": 5,
+  "output": "mytharc:components/devourment",
+  "items": [
+    "minecraft:enchanted_golden_apple",
+    "minecraft:cooked_porkchop",
+    "minecraft:spider_eye"
+  ],
+  "patterns": [
+    "mna:manaweave_patterns/diamond",
+    "mna:manaweave_patterns/hourglass",
+    "mna:manaweave_patterns/triangle"
+  ]
+}
